@@ -1,6 +1,6 @@
 ![Header](https://github.com/user-attachments/assets/7f7229e5-f7f5-40cb-8283-bc2c56aaf394)
 
-## About em:
+## About me:
   I'm currently studing computer science at UEPB, developing some projects in python, c, java, sql, docker, postman and etc.
   Nowdays, i'm looking for a java oportunity, as intern.
   Goal: learn java and its related techs.
