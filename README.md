@@ -8,14 +8,14 @@
 </div>
 
 ## About me:
+<img align="right" style="width: 250px; height: auto; display: block; margin-right: 20px;" src="freepik__edit-the-provided-reference-image-to-recolor-it-us__50236.png"/>
+  I'm currently studing computer science at UEPB, developed some projects in python, c, java, sql, docker, postman and etc.<br>
+  Nowdays, i'm looking for a java oportunity, as intern.<br>
+  Current Goal: learn java and its related techs.<br>
 
-  I'm currently studing computer science at UEPB, developed some projects in python, c, java, sql, docker, postman and etc.\
-  Nowdays, i'm looking for a java oportunity, as intern.\
-  Current Goal: learn java and its related techs.
 
-  
-##
 
+<br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blue_navy)
  
 
