@@ -9,7 +9,7 @@
 
 ## About me:
 <img align="right" style="width: 250px; height: auto; display: block; margin-right: 20px;" src="freepik__edit-the-provided-reference-image-to-recolor-it-us__50236.png"/>
-<img align="left" style="width: 40px; height: auto; display: block; margin-right: 20px;" src="https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_the_United_States_%28Web_Colors%29.svg"/><br>
+<img align="left" style="width: 40px; height: auto; display: block; margin-right: 20px;" src="https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_the_United_States_%28Web_Colors%29.svg"/><br><br>
 
     
   - I'm currently studing computer science at UEPB, developed some projects in python, c, java, sql, docker, postman and etc. <br>
