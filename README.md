@@ -10,14 +10,17 @@
 ## About me:
 <img align="right" style="width: 250px; height: auto; display: block; margin-right: 20px;" src="freepik__edit-the-provided-reference-image-to-recolor-it-us__50236.png"/>
 <img align="left" style="width: 40px; height: auto; display: block; margin-right: 20px;" src="https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_the_United_States_%28Web_Colors%29.svg"/><br>
-<br>
-  - I'm currently studing computer science at UEPB, developed some projects in python, c, java, sql, docker, postman and etc.<br>
+
+    
+  - I'm currently studing computer science at UEPB, developed some projects in python, c, java, sql, docker, postman and etc. <br>
   - Nowdays, i'm looking for a java oportunity, as backend dev intern.<br>
   - Current Goal: learn java and its related techs.<br>
   <br>
   
 
 <img align="left" style="width: 40px; height: auto; display: block; margin-right: 20px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/800px-Flag_of_Brazil.svg.png"/><br>
+
+
   - Atualmente, estudo ciência da computação na UEPB, desenvolvendo alguns projetos em python, c, java, sql, docker, postman etc. <br>
   - Estou em busca de uma nova oportunidade como estágiario como backend dev.<br>
   - Objetivo atual: Aprender java e suas tecnologias relacionadas.<br>
@@ -25,6 +28,8 @@
 
 
 <img align="left" style="width: 40px; height: auto; display: block; margin-right: 20px;" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"/><br>
+
+
   - Estudio en la UEPB, tuve la oportunidad de desarollar algunos prejectos utilzando python, c, java, slq, docker, postman etc. <br>
   - Actualmente, busco una oportunidad de trabajar como aprendiz de desarollador backend en java.<br>
   - Objetivo Actual: Estudiar java y sus techs relacionadas.<br>
