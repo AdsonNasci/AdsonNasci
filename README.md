@@ -36,8 +36,8 @@
 
   
 <br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blue_navy)
- 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdsonNasci&theme=blue_navy&show_icons=true)
+
 
   ##
 <div> 
