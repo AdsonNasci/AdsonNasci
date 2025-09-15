@@ -6,7 +6,8 @@
   Goal: learn java and its related techs.
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adson-Nasci_icons=true&theme=transparent)
+![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=Adson-Nasci_icons=true&theme=transparent](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blue_navy
+)
 
  
 <div style="display: inline_block"><br>
