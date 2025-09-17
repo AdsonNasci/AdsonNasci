@@ -5,6 +5,7 @@
   <img align="right" alt="Adson-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="right" alt="Adson-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="right" alt="Adson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" style="width: 100px; height: 40px; display: block; margin-right: 20px;" src="https://sistemas.uepb.edu.br/cas/themes/uepb/css/img/logo.png"/>
 </div>
 
 ## About me:
